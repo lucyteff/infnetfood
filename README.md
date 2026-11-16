@@ -10,7 +10,7 @@ O projeto contempla navegação entre telas, gerenciamento de estado global, int
 - Catálogo de produtos e restaurantes
 - Carrinho de compras e checkout
 - Visualização e acompanhamento de pedidos
-- Mapas e detalhes dos restaurantes
+- Visualização simulada de restaurantes: mapa ilustrativo com marcadores interativos, informações dos estabelecimentos e acesso aos cardápios.
 - Configurações e personalização de temas
 - Notificações
 
